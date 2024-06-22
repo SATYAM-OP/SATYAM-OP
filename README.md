@@ -1,10 +1,18 @@
-<div align=center>
- <a href="https://www.linkedin.com/in/satyam-tambakhe-3921a422b/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-<a href="mailto:satyam.tambakhe@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+<div align="center"> 
+  <a href="mailto:satyam.tambakhe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/satyam-tambakhe-3921a422b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
+
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=SATYAM-OP&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img align="cenetr" src="https://visitor-badge.laobi.icu/badge?page_id=SATYAM-OP.SATYAM-OP" />
 </p>
 <div align="center">
   
@@ -167,9 +175,16 @@
 <details>
   <summary>GitHub Stats</summary>
   <br>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SATYAM-OP&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
-  </p>
+ <h2 align="center">⚡ Stats ⚡</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATYAM-OP" alt="SATYAM-OP" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SATYAM-OP&show_icons=true&locale=en&layout=compact" alt="SATYAM-OP" />
+</p>
+
+<hr/>
 </details>
 
   </td>
@@ -183,7 +198,14 @@
 
 </div>
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SATYAM-OP/SATYAM-OP/Snake🐍/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+<hr/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+Stopping+by!+🙏;" />
+</h1>
