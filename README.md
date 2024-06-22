@@ -60,6 +60,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATYAM-OP" alt="SATYAM-OP" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SATYAM-OP" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
