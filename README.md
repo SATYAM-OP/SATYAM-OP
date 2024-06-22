@@ -20,7 +20,7 @@
   <a href="mailto:satyam.tambakhe@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/satyam-tambakhe" target="_blank">
+  <a href="https://www.linkedin.com/in/satyam-tambakhe-3921a422b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="">
@@ -54,13 +54,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SATYAM-OP&show_icons=true&locale=en" alt="SATYAM-OP" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATYAM-OP" alt="SATYAM-OP" />
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SATYAM-OP" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
